@@ -31,7 +31,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "6525032872:AAHcv1nfnbP46zS-WGd03QX1rmGKtM2HEyU") 
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Cluster0")    
+    DB_NAME = os.environ.get("DB_NAME","sunildatta377")    
     DB_URL  = os.environ.get("DB_URL","mongodb+srv://sunildatta377:mujju700@cluster0.lyo09bp.mongodb.net/?retryWrites=true&w=majority")
  
     # other configs
